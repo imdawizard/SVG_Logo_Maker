@@ -1,0 +1,25 @@
+{
+  "name": "svg_logo_maker",
+  "version": "1.0.0",
+  "description": "Makes custom logos",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imdawizard/SVG_Logo_Maker.git"
+  },
+  "author": "YaBoi Nate Kester",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/imdawizard/SVG_Logo_Maker/issues"
+  },
+  "homepage": "https://github.com/imdawizard/SVG_Logo_Maker#readme",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
